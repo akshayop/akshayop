@@ -4,7 +4,7 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 <br/>
 <br/>
-<img align="right" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="coding Image" />
+<img width="50%" align="right" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="coding Image" />
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshayop&label=Profile%20views&color=0e75b6&style=flat" alt="akshayop" /> </p>
 <br/>
